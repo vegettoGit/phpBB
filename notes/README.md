@@ -1,2 +1,2 @@
-# phpbb
-Notes on phpbb upgrades, migration and maintenance
+# phpBB
+Notes on phpBB upgrades, migration and maintenance
